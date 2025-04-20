@@ -1,6 +1,6 @@
 
 
-#Agent 1. 🧠 Arithmetic AI Agent using LLaMA & Groq
+#Agent 1:  🧠 Arithmetic AI Agent using LLaMA & Groq
 
 This project demonstrates a simple yet powerful **ReAct-style AI agent** using the **LlamaIndex framework** and **Groq LLaMA-3.1** model. The agent is designed to handle basic arithmetic operations (addition, subtraction, multiplication, division) using tool-augmented reasoning via the LLM.
 
@@ -33,7 +33,7 @@ This project demonstrates a simple yet powerful **ReAct-style AI agent** using t
 
 ######################################################################
 
-# 🧠 Q&A Agent with RAG using LangChain, ChromaDB, and Groq LLM
+# Agent 2 : 🧠 Q&A Agent with RAG using LangChain, ChromaDB, and Groq LLM
 
 This project implements a **Question Answering (Q&A) Agent** using **RAG (Retrieval-Augmented Generation)** with **LangChain**, **ChromaDB**, and **Groq's LLM (e.g., Mixtral)**. The agent loads a PDF document, splits it into manageable chunks, generates embeddings using a HuggingFace model, stores them in a vector store (Chroma), and finally answers user queries based on document retrieval and large language model reasoning.
 
